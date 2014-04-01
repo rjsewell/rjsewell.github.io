@@ -4,13 +4,13 @@
 	<!-- Site/Blog Indexes -->
 	<url>
 		<loc>http://rjsewell.github.io</loc>
-		<lastmod>2014-04-01T19:45:31+02:00</lastmod>
+		<lastmod>2014-04-01T21:09:03+02:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 	</url>
 	<url>
 		<loc>http://rjsewell.github.io/blog/</loc>
-		<lastmod>2014-04-01T19:45:31+02:00</lastmod>
+		<lastmod>2014-04-01T21:09:03+02:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 	</url>
@@ -26,37 +26,31 @@
 	<!-- Pages -->
 	<url>
 		<loc>http://rjsewell.github.io/about/</loc>
-		<lastmod>2014-04-01T19:45:31+02:00</lastmod>
+		<lastmod>2014-04-01T21:09:03+02:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	<url>
 		<loc>http://rjsewell.github.io/contact/</loc>
-		<lastmod>2014-04-01T19:45:31+02:00</lastmod>
+		<lastmod>2014-04-01T21:09:03+02:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	<url>
 		<loc>http://rjsewell.github.io/presentations/</loc>
-		<lastmod>2014-04-01T19:45:31+02:00</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.8</priority>
-	</url>
-	<url>
-		<loc>http://rjsewell.github.io/presentations_full/</loc>
-		<lastmod>2014-04-01T19:45:31+02:00</lastmod>
+		<lastmod>2014-04-01T21:09:03+02:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	<url>
 		<loc>http://rjsewell.github.io/projects/</loc>
-		<lastmod>2014-04-01T19:45:31+02:00</lastmod>
+		<lastmod>2014-04-01T21:09:03+02:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	<url>
 		<loc>http://rjsewell.github.io/publications/</loc>
-		<lastmod>2014-04-01T19:45:31+02:00</lastmod>
+		<lastmod>2014-04-01T21:09:03+02:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.8</priority>
 	</url>
