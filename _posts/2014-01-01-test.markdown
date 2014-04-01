@@ -13,11 +13,28 @@ code highlighting
 {% endhighlight %}
 
 link to image:
-![My helpful screenshot]({{ site.url }}/assets/images/singlet.png)
+![My helpful screenshot]({{ site.url }}/assets/images/lander_and_naia.jgp)
 
 [link to pdf]({{ site.url }}/assets/pdfs/RJSewellCV.pdf) directly.
 
 mathjax
 
+$$
+L_{l}^{(i)} (s) = \left[ 
+        \sum_{s_{j}} \text{Prob} (s_j \mid s, v_j) L_{j}^{(i)}(s_j)
+    \right] \times \left[
+        \sum_{s_{k}} \text{Prob} (s_k \mid s, v_k) L_{k}^{(i)}(s_k)
+    \right]
+$$
+
+with code highlighting
+
+{% highlight python %}
+def f(L,tp,j,k,l):
+    for sl,ll in enumerate(L[l]):
+        llj = sum([ lj * tp[l,j,sl,sj] for sj,lj in enumerate(L[j]) ])
+        llk = sum([ lk * tp[l,k,sl,sk] for sk,lk in enumerate(L[k]) ])
+        L[l,sl] = llj * llk
+{% endhighlight %}
 
 [jekyll]:    http://jekyllrb.com

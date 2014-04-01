@@ -11,7 +11,8 @@
   <![endif]-->
 
   <link href="/assets/css/style.css" rel="stylesheet" />
-  <link href="/assets/css/colors-dark.css" rel="stylesheet" />
+  <!-- <link href="/assets/css/colors-dark.css" rel="stylesheet" /> -->
+  <link href="/assets/css/colors.css" rel="stylesheet" />
 
 </head>
 
@@ -58,11 +59,21 @@
 <div class='highlight'><pre><code class='ruby'>	<span class='n'>bundle</span> <span class='nb'>exec</span> <span class='n'>jekyll</span> <span class='n'>build</span> <span class='o'>--</span><span class='n'>watch</span>
 	<span class='n'>bundle</span> <span class='nb'>exec</span> <span class='n'>jekyll</span> <span class='n'>serve</span> <span class='o'>--</span><span class='n'>watch</span>
 </code></pre></div>
-<p>link to image: <img src="http://rjsewell.github.io/assets/images/singlet.png" alt="My helpful screenshot" /></p>
+<p>link to image: <img src="http://rjsewell.github.io/assets/images/lander_and_naia.jgp" alt="My helpful screenshot" /></p>
 
 <p><a href="http://rjsewell.github.io/assets/pdfs/RJSewellCV.pdf">link to pdf</a> directly.</p>
 
-<p>mathjax</p></div>
+<p>mathjax</p>
+
+<p>$$ L_{l}^{(i)} (s) = \left[\sum_{s_{j}} \text{Prob} (s_j \mid s, v_j) L_{j}^{(i)}(s_j) \right] \times \left[\sum_{s_{k}} \text{Prob} (s_k \mid s, v_k) L_{k}^{(i)}(s_k) \right] $$</p>
+
+<p>with code highlighting</p>
+<div class='highlight'><pre><code class='python'><span class='k'>def</span> <span class='nf'>f</span><span class='p'>(</span><span class='n'>L</span><span class='p'>,</span><span class='n'>tp</span><span class='p'>,</span><span class='n'>j</span><span class='p'>,</span><span class='n'>k</span><span class='p'>,</span><span class='n'>l</span><span class='p'>):</span>
+    <span class='k'>for</span> <span class='n'>sl</span><span class='p'>,</span><span class='n'>ll</span> <span class='ow'>in</span> <span class='nb'>enumerate</span><span class='p'>(</span><span class='n'>L</span><span class='p'>[</span><span class='n'>l</span><span class='p'>]):</span>
+        <span class='n'>llj</span> <span class='o'>=</span> <span class='nb'>sum</span><span class='p'>([</span> <span class='n'>lj</span> <span class='o'>*</span> <span class='n'>tp</span><span class='p'>[</span><span class='n'>l</span><span class='p'>,</span><span class='n'>j</span><span class='p'>,</span><span class='n'>sl</span><span class='p'>,</span><span class='n'>sj</span><span class='p'>]</span> <span class='k'>for</span> <span class='n'>sj</span><span class='p'>,</span><span class='n'>lj</span> <span class='ow'>in</span> <span class='nb'>enumerate</span><span class='p'>(</span><span class='n'>L</span><span class='p'>[</span><span class='n'>j</span><span class='p'>])</span> <span class='p'>])</span>
+        <span class='n'>llk</span> <span class='o'>=</span> <span class='nb'>sum</span><span class='p'>([</span> <span class='n'>lk</span> <span class='o'>*</span> <span class='n'>tp</span><span class='p'>[</span><span class='n'>l</span><span class='p'>,</span><span class='n'>k</span><span class='p'>,</span><span class='n'>sl</span><span class='p'>,</span><span class='n'>sk</span><span class='p'>]</span> <span class='k'>for</span> <span class='n'>sk</span><span class='p'>,</span><span class='n'>lk</span> <span class='ow'>in</span> <span class='nb'>enumerate</span><span class='p'>(</span><span class='n'>L</span><span class='p'>[</span><span class='n'>k</span><span class='p'>])</span> <span class='p'>])</span>
+        <span class='n'>L</span><span class='p'>[</span><span class='n'>l</span><span class='p'>,</span><span class='n'>sl</span><span class='p'>]</span> <span class='o'>=</span> <span class='n'>llj</span> <span class='o'>*</span> <span class='n'>llk</span>
+</code></pre></div></div>
 
 	</article>
 
@@ -87,6 +98,9 @@
 
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
   <script src="/assets/js/jquery.mobilemenu.min.js"></script>
+  <script type="text/javascript"
+      src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+  </script>
 
   <script>
     $(document).ready(function(){
