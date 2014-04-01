@@ -12,8 +12,8 @@
   <![endif]-->
 
   <link href="/assets/css/style.css" rel="stylesheet" />
-  <!-- <link href="/assets/css/colors-dark.css" rel="stylesheet" /> -->
-  <link href="/assets/css/colors.css" rel="stylesheet" />
+  <link href="/assets/css/colors-dark.css" rel="stylesheet" type="text/css" title="dark" />
+   <link href="/assets/css/colors-light.css" rel="stylesheet" type="text/css" title="light" />
 
 </head>
 
@@ -76,11 +76,19 @@
   </div>
 
   <footer id="footer">
-    <p class="copyright">Copyright &copy; 2014 R.J.Sewell. Powered by <a href="http://jekyllrb.com">Jekyll</a>, theme by <a href="http://www.webmaster-source.com">Matt Harzewski</a></p>
+    <p class="copyright">Copyright &copy; 2014 R.J.Sewell. Powered by <a href="http://jekyllrb.com">Jekyll</a>, theme by <a href="http://www.webmaster-source.com">Matt Harzewski</a>
+    </p>
+    <p>Switch style to Solarized 
+    <a href="#" onclick="setActiveStyleSheet('dark'); return false;">dark</a>
+    or Solarized 
+    <a href="#" onclick="setActiveStyleSheet('light'); return false;">light</a> 
+  </p>
   </footer>
 
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
   <script src="/assets/js/jquery.mobilemenu.min.js"></script>
+   <script type="text/javascript" src="/assets/js/styleswitcher.js"></script>
+
   <script type="text/javascript"
       src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
   </script>
