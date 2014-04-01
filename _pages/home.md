@@ -2,5 +2,8 @@
 permalink: /home/
 layout:    default
 title:     Home
-description: home...
 ---
+
+#Some useful information
+
+about me...
