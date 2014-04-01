@@ -1,3 +1,8 @@
-name: Your New Jekyll Site
+name: R.J.Sewell
 markdown: redcarpet
 pygments: true
+safe: true
+lsi: false
+
+include: ['_pages']
+relative_permalinks: false
