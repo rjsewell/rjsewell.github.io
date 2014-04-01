@@ -16,8 +16,6 @@ link to image:
 
 ![My helpful screenshot]({{ site.url }}/assets/images/kids.jpg)
 
-[link to pdf]({{ site.url }}/assets/pdfs/RJSewellCV.pdf) directly.
-
 mathjax
 
 $$
