@@ -13,7 +13,10 @@ code highlighting
 {% endhighlight %}
 
 link to image:
+
 ![My helpful screenshot]({{ site.url }}/assets/images/kids.jpg)
+
+{% img class {{ site.url }}/assets/images/singlet.png 225 240 'singlet state' 'evidence of squeezing' %}
 
 [link to pdf]({{ site.url }}/assets/pdfs/RJSewellCV.pdf) directly.
 
