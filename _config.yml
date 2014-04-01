@@ -1,8 +1,17 @@
 name: R.J.Sewell
-markdown: redcarpet
-pygments: true
+url: http://rjsewell.github.io
+description: home page
+
+source:      .
+
 safe: true
 lsi: false
+pygments: true
+
+permalink: /:year/:month/:day/:title/
+paginate: 2
 
 include: ['_pages']
 relative_permalinks: false
+
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
