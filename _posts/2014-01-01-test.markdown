@@ -14,26 +14,14 @@ code highlighting
 
 link to image:
 
-![My helpful screenshot]({{ site.url /assets/images/kids.jpg)
+![My helpful screenshot]({{ site.url }}/assets/images/kids.jpg)
 
 mathjax
 
 $$
-L_{l^{(i) (s) = \left[ 
-        \sum_{s_{j \text{Prob (s_j \mid s, v_j) L_{j^{(i)(s_j)
-    \right] \times \left[
-        \sum_{s_{k \text{Prob (s_k \mid s, v_k) L_{k^{(i)(s_k)
-    \right]
+\exp^{i \pi}=-1
 $$
 
 with code highlighting
-
-{% highlight python %}
-def f(L,tp,j,k,l):
-    for sl,ll in enumerate(L[l]):
-        llj = sum([ lj * tp[l,j,sl,sj] for sj,lj in enumerate(L[j]) ])
-        llk = sum([ lk * tp[l,k,sl,sk] for sk,lk in enumerate(L[k]) ])
-        L[l,sl] = llj * llk
-{% endhighlight %}
 
 [jekyll]:    http://jekyllrb.com
