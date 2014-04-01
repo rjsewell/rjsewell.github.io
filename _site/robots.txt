@@ -1,0 +1,4 @@
+User-agent: * 
+Disallow:
+
+Sitemap: http://rjsewell.github.io/sitemap.xml

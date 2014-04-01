@@ -1,0 +1,23 @@
+---
+layout: post
+title:  Test Post...
+---
+
+A [Jekyll][jekyll] website.
+
+code highlighting
+
+{% highlight ruby %}
+	bundle exec jekyll build --watch
+	bundle exec jekyll serve --watch
+{% endhighlight %}
+
+link to image:
+![My helpful screenshot]({{ site.url }}/assets/images/singlet.png)
+
+[link to pdf]({{ site.url }}/assets/pdfs/RJSewellCV.pdf) directly.
+
+mathjax
+
+
+[jekyll]:    http://jekyllrb.com
