@@ -1,44 +1,64 @@
-html, body {
+2html, body {
 	background-color: white;
 	color: black;
 }
 
-a, a:visited, a:active {
-	color: #186170;
-	border-color: #186170;
+a, a:visited{
+	color: #1B4063;
+	border-color: #1B4063;
 }
 
 a:hover {
 	background-color: white;
-	border-color: #F07022;
-	color: #F07022;
+	border-color: #3498D8;
+	color: #3498D8;
 }
 
 h1, h2, h3 {
-	color: #1B4063;
+	color: #132842;
 }
 
 h1 a, h1 a:visited, h1 a:active {
-	color: #C01B2D;
+	color: #132842;
+}
+
+h1 a:hover {
+	background-color: white;
+	color: #3498D8;
+	border-color: #3498D8;
 }
 
 article h1 a.anchor {
-	color: #C01B2D;
+	color: #2aa198;
 }
 
 blockquote {
-	border-color: #1B4063;
+	color: #2C3E50;
+}
+
+#header h1 a, h1 a:active {
+	color: #C01B2D;
+	background-color: white;
+}
+
+#header h1 a:hover {
+	color: #3498D8;
+	background-color: white;
+}
+
+#sidebar a {
+	color: #2A2C2B;
+	background-color: white;
 }
 
 #sidebar a:hover {
-	color: #1B4063;
+	color: #3498D8;
 	background-color: white;
 }
 
 #footer {
 	border-color: #1B4063;
 }
-
 
 
 /*** Pygments ***/

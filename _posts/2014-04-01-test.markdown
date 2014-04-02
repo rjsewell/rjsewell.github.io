@@ -22,6 +22,8 @@ $$
 \exp^{i \pi}=-1
 $$
 
-with code highlighting
+and a block quote
+
+> This is a blockquote...
 
 [jekyll]:    http://jekyllrb.com
