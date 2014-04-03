@@ -3,9 +3,9 @@ url: http://rjsewell.github.io
 description: "Postdoc at ICFO - the institute of Photonic Sciences, Barcelona."
 
 source:  .
-
 safe: true
 lsi: false
+markdown: kramdown
 pygments: true
 
 permalink:     '/blog/:year/:title/'
