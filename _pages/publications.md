@@ -4,6 +4,8 @@ layout:    default
 title:     Publications
 ---
 
+Here you can find my peer-reviewed publications & preprints, and some less technical articles that I've written for the scientific press.
+
 #Publications
 
 1. G. Puentes, G. Colangelo, R.J. Sewell & M.W. Mitchell. Planar quantum squeezing via quantum non-demolition measurements in cold atomic ensembles. [New Journal of Physics 15, 103031 (2013)](http://iopscience.iop.org/1367-2630/15/10/103031).

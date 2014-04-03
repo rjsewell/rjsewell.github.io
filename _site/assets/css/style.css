@@ -28,8 +28,6 @@ table {
 	border-spacing: 0;
 }
 
-
-
 /*** Basics ***/
 body {
 	font-family: Verdana, serif;
@@ -89,8 +87,6 @@ h3 {
 	margin: 0 0 10px 0;
 }
 
-
-
 /*** Useful Classes ***/
 .clear { clear: both; }
 .float-left { float: left; }
@@ -104,8 +100,6 @@ h3 {
 .img-middle { vertical-align: middle; }
 .nopadding { padding: 0; }
 .nounderline { text-decoration: underline; }
-
-
 
 /*** Structure ***/
 #page {
@@ -243,7 +237,6 @@ img.center {
 	}
 
 }
-
 
 
 /*** Icons ***/
