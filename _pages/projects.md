@@ -10,11 +10,17 @@ The achievement of spin squeezing in an optical magnetometer. This was a long-st
 
 #Quantum non-demolition measurement
 
+![Singlet state]({{ site.url }}/assets/images/qnd.png)
+
 the development of statistical tools for verifying quantum non-demolition measurements of material systems
 
 #Generating & detecting entanglement
 
 Novel application of quantum control techniques to feedback cooling of atomic spins, and quantum state engineering of entangled many-body spin states.
+
+#Macroscopic Singlet states
+
+![Singlet state]({{ site.url }}/assets/images/singlet.png)
 
 #Nonlinear quantum measurements
 
