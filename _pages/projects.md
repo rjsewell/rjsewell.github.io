@@ -12,6 +12,8 @@ title:     Projects
 
 The achievement of spin squeezing in an optical magnetometer. This was a long-standing goal in the field, and opens the possibility of using these techniques to improve state-of-the-art optical magnetometers.
 
+![Singlet state]({{ site.url }}/assets/images/vector.png)
+
 #Quantum non-demolition measurement
 
 ![Singlet state]({{ site.url }}/assets/images/qnd.png)
