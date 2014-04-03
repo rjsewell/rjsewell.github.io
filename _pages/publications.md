@@ -51,10 +51,10 @@ Here you can find my peer-reviewed publications & preprints, and some less techn
 
 #Preprints
 
-1. N. Behbood, F. Martin Ciurana, G. Colangelo, M. Napolitano, G. Tóth, R.J. Sewell & M.W. Mitchell. Generation of macroscopic singlet states in a cold atomic ensemble. [arXiv:1403.1964 [quant-ph]](http://arxiv.org/abs/1403.1964).
+1. N. Behbood, F. Martin Ciurana, G. Colangelo, M. Napolitano, G. Tóth, R.J. Sewell & M.W. Mitchell. Generation of macroscopic singlet states in a cold atomic ensemble. [arXiv:1403.1964](http://arxiv.org/abs/1403.1964).
 [link to pdf]({{ site.url }}/assets/pdfs/BehboodArXiv2014.pdf)
 
-2. R.J. Sewell, M. Napolitano, N. Behbood, G. Colangelo, F. Martin Ciurana & M.W. Mitchell. Ultra-sensitive atomic spin measurements with a nonlinear interferometer. [arXiv:1310.5889 [quant-ph]](http://arxiv.org/abs/1310.5889).
+2. R.J. Sewell, M. Napolitano, N. Behbood, G. Colangelo, F. Martin Ciurana & M.W. Mitchell. Ultra-sensitive atomic spin measurements with a nonlinear interferometer. [arXiv:1310.5889](http://arxiv.org/abs/1310.5889).
 [link to pdf]({{ site.url }}/assets/pdfs/SewellArXiv2013.pdf)
 
 #Popular articles
