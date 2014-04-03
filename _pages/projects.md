@@ -6,6 +6,8 @@ title:     Projects
 
 #Spin squeezing & atomic magnetometry
 
+![Singlet state]({{ site.url }}/assets/images/squeezing.png)
+
 ![Singlet state]({{ site.url }}/assets/images/magnetometry.png)
 
 The achievement of spin squeezing in an optical magnetometer. This was a long-standing goal in the field, and opens the possibility of using these techniques to improve state-of-the-art optical magnetometers.
@@ -27,6 +29,10 @@ Novel application of quantum control techniques to feedback cooling of atomic sp
 #Macroscopic Singlet states
 
 ![Singlet state]({{ site.url }}/assets/images/singlet.png)
+
+#Planar squeezing
+
+![Singlet state]({{ site.url }}/assets/images/planar.png)
 
 #Nonlinear quantum measurements
 
