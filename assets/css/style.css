@@ -196,15 +196,6 @@ img.center {
 	margin: 0 auto 1em auto;
 }
 
-/*** Pages ***/
-
-page img {
-	display: block;
-	text-align: center;
-	margin: 0 auto 1em auto;
-	border-top: 1px solid #073642;
-}
-
 /*** Pagination ***/
 .postnavigation {
 	padding-top: 10px;
