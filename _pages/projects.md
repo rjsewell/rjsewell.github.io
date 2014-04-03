@@ -18,7 +18,11 @@ the development of statistical tools for verifying quantum non-demolition measur
 
 #Generating & detecting entanglement
 
+![Singlet state]({{ site.url }}/assets/images/correlations1.png)
+
 Novel application of quantum control techniques to feedback cooling of atomic spins, and quantum state engineering of entangled many-body spin states.
+
+![Singlet state]({{ site.url }}/assets/images/correlations2.png)
 
 #Macroscopic Singlet states
 
