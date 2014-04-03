@@ -4,6 +4,8 @@ layout:    default
 title:     Presentations
 ---
 
+This is a subset of talks & presentations that I have given. You can find a full list [here]({{ site.url }}/presentations_full).
+
 #Invited Talks
 
 1. R.J. Sewell. Strong atom-light interaction for quantum--enhanced sensors. CFM & DIPC (San Sebastian, Spain, 2014).
