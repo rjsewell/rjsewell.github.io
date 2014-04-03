@@ -4,21 +4,27 @@ layout:    default
 title:     Projects
 ---
 
-#Spin squeezing & atomic magnetometry
+#Quantum-enhanced magnetometry
 
-![Singlet state]({{ site.url }}/assets/images/squeezing.png)
+We study how to improve the sensitivity of an optical magnetometer using techniques from quantum optics.
+
+###Spin-squeezing
+
+![Singlet state]({{ site.url }}/assets/images/squeezing.png) 
+In our paper "Magnetic sensitivity beyond the projection noise limit by spin squeezing" ([PRL 109, 253605 (2012)](http://prl.aps.org/abstract/PRL/v109/i25/e253605)) we demonstrate spin squeezing in an optical magnetometer via quantum non-demolition measurement. We infer 3dB of spin-squeezing, and maintain 90% coherence of the spin state, indicating that we have generated entanglement among the atoms in the sample.
 
 ![Singlet state]({{ site.url }}/assets/images/magnetometry.png)
+Using the spin-squeezed state, we detect an external magnetic field with sub-projection noise sensitivity. We improve the sensitivity of a 100kHz-bandwidth optical magnetometer by a factor of 10%
 
-The achievement of spin squeezing in an optical magnetometer. This was a long-standing goal in the field, and opens the possibility of using these techniques to improve state-of-the-art optical magnetometers.
-
-![Singlet state]({{ site.url }}/assets/images/vector.png)
-
-#Quantum non-demolition measurement
+###Quantum non-demolition measurement
 
 ![Singlet state]({{ site.url }}/assets/images/qnd.png)
+We use quantum non-demolition measurement techniques to generate spin squeezing and entanglement among the atoms. These techniques were originally proposed as a means of avoiding back-action in optical interferometers designed to detect gravity waves, and then studied extensively for the detection of  optical fields. These studies lead to the development of precise statistical tests for verifying if a measurement is truly *quantum* non-demolition. We have described how to adapt these tests to measurements of atomic samples ([NJP 14, 085021 (2012)](http://iopscience.iop.org/1367-2630/14/8/085021/)), and applied them for the first time in our paper "Certified quantum non-demolition measurement of a macroscopic material system" ([Nat. Photon., 7, 517 (2013)](http://www.nature.com/nphoton/journal/v7/n7/full/nphoton.2013.100.html)).
 
-the development of statistical tools for verifying quantum non-demolition measurements of material systems
+###Vector magnetometry
+
+![Singlet state]({{ site.url }}/assets/images/vector.png)
+We have developed a simple technique for vector magnetometry using the cold atoms as an in-situ magnetic field probe. We monitor the free induction decay signals from two orthogonal polarized input states via paramagnetic Faraday rotation. From these we can reconstruct the magnitude and direction of the external magnetic field, with a measurement bandwidth of 1kHz.
 
 #Generating & detecting entanglement
 
@@ -38,7 +44,11 @@ Novel application of quantum control techniques to feedback cooling of atomic sp
 
 #Nonlinear quantum measurements
 
+###Interaction-based measurement
+
 ![Singlet state]({{ site.url }}/assets/images/superHeisenberg.png)
+
+###Alignment-to-orientation conversion
 
 ![Singlet state]({{ site.url }}/assets/images/nlaoc.png)
 
