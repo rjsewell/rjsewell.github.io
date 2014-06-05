@@ -8,6 +8,9 @@ Here you can find my peer-reviewed publications & preprints, and some less techn
 
 #Publications
 
+2. R.J. Sewell, M. Napolitano, N. Behbood, G. Colangelo, F. Martin Ciurana & M.W. Mitchell. Ultra-sensitive atomic spin measurements with a nonlinear interferometer. [PRX (in press) (2014)](http://arxiv.org/abs/1310.5889).
+[link to pdf]({{ site.url }}/assets/pdfs/SewellArXiv2013.pdf)
+
 1. G. Puentes, G. Colangelo, R.J. Sewell & M.W. Mitchell. Planar quantum squeezing via quantum non-demolition measurements in cold atomic ensembles. [New Journal of Physics 15, 103031 (2013)](http://iopscience.iop.org/1367-2630/15/10/103031).
 [link to pdf]({{ site.url }}/assets/pdfs/PuentesNJP2013.pdf)
 
