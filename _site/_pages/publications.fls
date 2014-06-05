@@ -1,6 +1,0 @@
-PWD /Users/robertsewell/Public/rjsewell.github.io/_pages
-INPUT /usr/local/texlive/2012/texmf.cnf
-INPUT /usr/local/texlive/2012/texmf/web2c/texmf.cnf
-INPUT /usr/local/texlive/2012/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/robertsewell/Public/rjsewell.github.io/_pages/publications.md
-OUTPUT /Users/robertsewell/Public/rjsewell.github.io/_pages/publications.log

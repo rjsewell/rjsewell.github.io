@@ -13,7 +13,7 @@ Here you can find information about ongoing research [projects]({{ site.url }}/p
 
 #Curriculum Vitae
 
-[link to pdf]({{ site.url }}/assets/pdfs/RJSewellCVApril2014.pdf).
+[link to pdf]({{ site.url }}/assets/pdfs/RJSewellCV.pdf).
 
 #Thesis
 
