@@ -8,7 +8,7 @@ This is a full list of conference presentations (talks & posters), lectures & se
 
 #Invited Talks
 
-1. **R.J. Sewell**. Strong atom-light interaction for quantum--enhanced sensors. *CFM & DIPC* (San Sebastian, Spain, 2014).
+<!-- 1. **R.J. Sewell**. Strong atom-light interaction for quantum--enhanced sensors. *CFM & DIPC* (San Sebastian, Spain, 2014). -->
  
 2. **R.J. Sewell**, M. Napolitano, N. Behbood, G. Colangelo, F. Martin Ciurana & M.W.Mitchell. Quantum--enhanced atomic magnetometry. Información cuántica en España (Zaragoza, Spain, 2014).
 

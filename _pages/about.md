@@ -10,7 +10,6 @@ I am currently a senior postdoctoral researcher in the group of [Prof. Morgan Mi
 
 Here you can find information about ongoing research [projects]({{ site.url }}/projects), [publications]({{ site.url }}/publications) and some [presentations]({{ site.url }}/presentations) that I have given.
 
-
 #Curriculum Vitae
 
 [link to pdf]({{ site.url }}/assets/pdfs/RJSewellCV.pdf).
