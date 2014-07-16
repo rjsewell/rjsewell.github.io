@@ -9,12 +9,14 @@ This is a full list of conference presentations (talks & posters), lectures & se
 #Invited Talks
 
 <!-- 1. **R.J. Sewell**. Strong atom-light interaction for quantum--enhanced sensors. *CFM & DIPC* (San Sebastian, Spain, 2014). -->
+
+1. **R.J. Sewell**, M. Napolitano, N. Behbood, G. Colangelo, F. Martin Ciurana & M.W.Mitchell. Certified quantum non-demolition measurement of atomic spins. ICO23 (Santiago de Compostella, Spain, 2014).
  
 2. **R.J. Sewell**, M. Napolitano, N. Behbood, G. Colangelo, F. Martin Ciurana & M.W.Mitchell. Quantum--enhanced atomic magnetometry. Información cuántica en España (Zaragoza, Spain, 2014).
 
-3. **R.J. Sewell**. Atomic Physics. Winter School on Quantum Physics & Quantum Information (Olomouz University, Czech Republic, 2014).
+#Invited Lectures
 
-4. **R.J. Sewell**, M. Koschorreck, M. Napolitano, B. Dubost, N. Behbood & M.W. Mitchell. Quantum Metrology with Ultracold Atoms. EMALI (Barcelona, Spain, 2010).
+3. **R.J. Sewell**. Atomic Physics. Winter School on Quantum Physics & Quantum Information (Olomouz University, Czech Republic, 2014).
 
 #Contributed Talks
 
@@ -32,7 +34,7 @@ This is a full list of conference presentations (talks & posters), lectures & se
 
 7. R.J. Sewell, M. Napolitano, N. Behbood, G. Colangelo, F. Martin Ciurana & **M. W. Mitchell**, Certified quantum non-demolition measurement of atomic spins. DAMOP (Madison, U.S.A., 2014). 
 
-8. G. Colangelo, N. Behbood, F. Martin Ciurana, G. Puentes, R.J. Sewell & M.W. Mitchell**, Generation of Planar squeezing in a cold atomic ensemble. DAMOP (Madison, U.S.A., 2014). 
+8. G. Colangelo, N. Behbood, F. Martin Ciurana, G. Puentes, R.J. Sewell & **M.W. Mitchell**, Generation of Planar squeezing in a cold atomic ensemble. DAMOP (Madison, U.S.A., 2014). 
 
 9. N. Behbood, G. Colangelo, F. Martin Ciurana, M. Napolitano, G. Toóth, R. J. Sewell & **M. W. Mitchell**, Spin cooling via incoherent feedback in an ensemble of cold $^{87}$Rb atoms. DAMOP (Madison, U.S.A., 2014). 
 
@@ -84,42 +86,44 @@ This is a full list of conference presentations (talks & posters), lectures & se
 
 25. **R.J. Sewell**, M. Napolitano, M. Koschorreck, B. Dubost, N. Behbood & M.W. Mitchell. Nonlinear Quantum Metrology of Atomic Spins. QCMC (Briabane, Australia, 2010).  
 
-26. **M. Koschorreck**, M. Napolitano, B. Dubost, N. Behbood & R.J. Sewell ,and M.W. Mitchell. Spin Squeezing via Quantum Non-Demolition Measurements in Cold <sup>87</sup>Rb Atomic Ensemble. CLEO (San Jose, USA,  2010). 
+26. **R.J. Sewell**, M. Koschorreck, M. Napolitano, B. Dubost, N. Behbood & M.W. Mitchell. Quantum Metrology with Ultracold Atoms. EMALI (Barcelona, Spain, 2010).
 
-27. **R.J. Sewell**, F. Baumgärtner, R.J. Sewell, S. Eriksson, I. Llorente-García, J. Dingjan & E. A. Hinds. Atom chip BEC Interferometer. J2IFAM (San Jose, USA, 2010). 
+27. **M. Koschorreck**, M. Napolitano, B. Dubost, N. Behbood & R.J. Sewell ,and M.W. Mitchell. Spin Squeezing via Quantum Non-Demolition Measurements in Cold <sup>87</sup>Rb Atomic Ensemble. CLEO (San Jose, USA,  2010). 
+
+28. **R.J. Sewell**, F. Baumgärtner, R.J. Sewell, S. Eriksson, I. Llorente-García, J. Dingjan & E. A. Hinds. Atom chip BEC Interferometer. J2IFAM (San Jose, USA, 2010). 
 
 #Published Conference Proceedings
 
-1. R.J. Sewell, M. Napolitano, N. Behbood, G. Colangelo, F. Martin Ciurana \& M.W. Mitchell. Certified quantum non-demolition measurement of atomic spins. CLEO:QELS FTh1B.4 (San Jose, U.S.A., 2014). 
+1. R.J. Sewell, M. Napolitano, N. Behbood, G. Colangelo, F. Martin Ciurana & M.W. Mitchell. Certified quantum non-demolition measurement of atomic spins. CLEO:QELS FTh1B.4 (San Jose, U.S.A., 2014). 
 
-2. N. Behbood, G. Colangelo, F. Martin Ciurana, M. Napolitano, R.J. Sewell \& M.W. Mitchell. Spin cooling via incoherent feedback in an ensemble of cold Rb atoms. CLEO:QELS, FTh3B.7 (San Jose, U.S.A., 2014). 
+2. N. Behbood, G. Colangelo, F. Martin Ciurana, M. Napolitano, R.J. Sewell & M.W. Mitchell. Spin cooling via incoherent feedback in an ensemble of cold Rb atoms. CLEO:QELS, FTh3B.7 (San Jose, U.S.A., 2014). 
 
-3. R.J. Sewell, M. Napolitano, N. Behbood, G. Colangelo, F. Martin Ciurana \& M.W. Mitchell. Simultaneous observation of super-Heisenberg scaling and spin squeezing in a nonlinear measurement of atomic spins. [CLEO:QELS QTh1L.3 (San Jose, U.S.A., 2013)](http://dx.doi.org/10.1364/CLEO_QELS.2013.QTh1L.3). 
+3. R.J. Sewell, M. Napolitano, N. Behbood, G. Colangelo, F. Martin Ciurana & M.W. Mitchell. Simultaneous observation of super-Heisenberg scaling and spin squeezing in a nonlinear measurement of atomic spins. [CLEO:QELS QTh1L.3 (San Jose, U.S.A., 2013)](http://dx.doi.org/10.1364/CLEO_QELS.2013.QTh1L.3). 
 
-4. P. Hauke, R.J. Sewell, M.W. Mitchell \& M. Lewenstein. Quantum control of spin-correlations in ultracold lattice gases. [CLEO:QELS QW3C.3 (San Jose, U.S.A., 2013)](http://dx.doi.org/10.1364/CLEO_QELS.2013.QW3C.3).
+4. P. Hauke, R.J. Sewell, M.W. Mitchell & M. Lewenstein. Quantum control of spin-correlations in ultracold lattice gases. [CLEO:QELS QW3C.3 (San Jose, U.S.A., 2013)](http://dx.doi.org/10.1364/CLEO_QELS.2013.QW3C.3).
 
-5. G. Colangelo, N. Behbood, F. Martin Ciurana, G. Puentes, R.J. Sewell \& M.W. Mitchell. Generation of planar quantum squeezing in an atomic ensemble. [CLEO:QELS QTh1L.5 (San Jose, U.S.A., 2013)](http://dx.doi.org/10.1364/CLEO_QELS.2013.QTh1L.5).
+5. G. Colangelo, N. Behbood, F. Martin Ciurana, G. Puentes, R.J. Sewell & M.W. Mitchell. Generation of planar quantum squeezing in an atomic ensemble. [CLEO:QELS QTh1L.5 (San Jose, U.S.A., 2013)](http://dx.doi.org/10.1364/CLEO_QELS.2013.QTh1L.5).
 
-N. Behbood, F. Martin Ciurana, G. Colangelo, M. Napolitano, R.J. Sewell \& M.W. Mitchell. Spin cooling via incoherent feedback in an ensemble of cold Rb atoms. [CLEO:QELS QTh1L.4 (San Jose, U.S.A., 2013)](http://dx.doi.org/10.1364/CLEO_QELS.2013.QTh1L.4). 
+6. N. Behbood, F. Martin Ciurana, G. Colangelo, M. Napolitano, R.J. Sewell & M.W. Mitchell. Spin cooling via incoherent feedback in an ensemble of cold Rb atoms. [CLEO:QELS QTh1L.4 (San Jose, U.S.A., 2013)](http://dx.doi.org/10.1364/CLEO_QELS.2013.QTh1L.4). 
 
-N. Behbood, F. Martin Ciurana, G. Colangelo, M. Napolitano, R.J. Sewell \& M.W. Mitchell. Spin cooling via incoherent feedback in an ensemble of cold Rb atoms. [CLEOE-IQEC (Munich, Germany, 2013)](http://dx.doi.org/10.1109/CLEOE-IQEC.2013.6801661).
+7. N. Behbood, F. Martin Ciurana, G. Colangelo, M. Napolitano, R.J. Sewell & M.W. Mitchell. Spin cooling via incoherent feedback in an ensemble of cold Rb atoms. [CLEOE-IQEC (Munich, Germany, 2013)](http://dx.doi.org/10.1109/CLEOE-IQEC.2013.6801661).
 
-R.J. Sewell, M. Napolitano, N. Behbood, G. Colangelo, F. Martin Ciurana \& M.W. Mitchell. Simultaneous observation of super-Heisenberg scaling and spin squeezing in a nonlinear measurement of atomic spins. [CLEOE-IQEC (Munich, Germany, 2013)](http://dx.doi.org/10.1109/CLEOE-IQEC.2013.6801619).
+8. R.J. Sewell, M. Napolitano, N. Behbood, G. Colangelo, F. Martin Ciurana & M.W. Mitchell. Simultaneous observation of super-Heisenberg scaling and spin squeezing in a nonlinear measurement of atomic spins. [CLEOE-IQEC (Munich, Germany, 2013)](http://dx.doi.org/10.1109/CLEOE-IQEC.2013.6801619).
 
-P. Hauke, R.J. Sewell, M.W. Mitchell \& M. Lewenstein. Quantum control of spin-correlations in ultracold lattice gases.  [CLEOE-IQEC (Munich, Germany, 2013)](http://dx.doi.org/10.1109/CLEOE-IQEC.2013.6801644).
+9. P. Hauke, R.J. Sewell, M.W. Mitchell & M. Lewenstein. Quantum control of spin-correlations in ultracold lattice gases.  [CLEOE-IQEC (Munich, Germany, 2013)](http://dx.doi.org/10.1109/CLEOE-IQEC.2013.6801644).
 
-N. Behbood, F. Martin Ciurana, G. Colangelo, M. Napolitano, R.J. Sewell \& M.W. Mitchell. Fast and non-destructive vector field magnetometry with cold atomic ensembles. [CLEOE-IQEC (Munich, Germany, 2013)](http://dx.doi.org/10.1109/CLEOE-IQEC.2013.6801671).
+10. N. Behbood, F. Martin Ciurana, G. Colangelo, M. Napolitano, R.J. Sewell & M.W. Mitchell. Fast and non-destructive vector field magnetometry with cold atomic ensembles. [CLEOE-IQEC (Munich, Germany, 2013)](http://dx.doi.org/10.1109/CLEOE-IQEC.2013.6801671).
 
-N. Behbood, F. Martin Ciurana, G. Colangelo, M. Napolitano, G. T\'{o}th, {\bf R. J. Sewell}, \& M.W. Mitchell. Generation of macroscopic singlet states in a cold atomic ensemble. [EPJ Web of Conferences 57, 03004 (ICAP, Paris, France, 2012)](http://dx.doi.org/10.1051/epjconf/20135703004).
+11. N. Behbood, F. Martin Ciurana, G. Colangelo, M. Napolitano, G. T\'{o}th, {\bf R. J. Sewell}, & M.W. Mitchell. Generation of macroscopic singlet states in a cold atomic ensemble. [EPJ Web of Conferences 57, 03004 (ICAP, Paris, France, 2012)](http://dx.doi.org/10.1051/epjconf/20135703004).
 
-R.J. Sewell, M. Koschorreck, M. Napolitano, B. Dubost, N. Behbood \& M.W. Mitchell. 
+12. R.J. Sewell, M. Koschorreck, M. Napolitano, B. Dubost, N. Behbood & M.W. Mitchell. 
 Spin-squeezing of a large-spin system via QND measurement. [CLEOE-IQEC (Munich, Germany, 2012)](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6326770).
 
-Robert J. Sewell, M. Koschorreck, M. Napolitano, B. Dobust, N. Behbood \& M.W. Mitchell. Spin-squeezing of a large-spin system via QND measurement. [CLEO:QELS QF2E.2 (San Jose, U.S.A., 2011)](http://dx.doi.org/10.1364/QELS.2012.QF2E.2). 
+13. Robert J. Sewell, M. Koschorreck, M. Napolitano, B. Dobust, N. Behbood & M.W. Mitchell. Spin-squeezing of a large-spin system via QND measurement. [CLEO:QELS QF2E.2 (San Jose, U.S.A., 2011)](http://dx.doi.org/10.1364/QELS.2012.QF2E.2). 
 
-M. Napolitano, M. Koschorreck, B. Dubost, N. Behbood, Robert J. Sewell \& M.W. Mitchell. Interaction-based quantum metrology giving a scaling beyond the Heisenberg limit. [CLEO:QELS QTuJ2 (San Jose, U.S.A., 2011)](http://dx.doi.org/10.1364/QELS.2011.QTuJ2). 
+15. M. Napolitano, M. Koschorreck, B. Dubost, N. Behbood, Robert J. Sewell & M.W. Mitchell. Interaction-based quantum metrology giving a scaling beyond the Heisenberg limit. [CLEO:QELS QTuJ2 (San Jose, U.S.A., 2011)](http://dx.doi.org/10.1364/QELS.2011.QTuJ2). 
 
-M. Koschorreck, M. Napolitano, B. Dubost, N. Behbood, R.J. Sewell \& M.W. Mitchell. Spin Squeezing via Quantum Non-Demolition Measurements in Cold $^{87}$Rb Atomic Ensemble. [CLEO:QELS QThA4 (San Jose, U.S.A., 2010)](http://dx.doi.org/10.1364/QELS.2010.QThA4). 
+16. M. Koschorreck, M. Napolitano, B. Dubost, N. Behbood, R.J. Sewell & M.W. Mitchell. Spin Squeezing via Quantum Non-Demolition Measurements in Cold $^{87}$Rb Atomic Ensemble. [CLEO:QELS QThA4 (San Jose, U.S.A., 2010)](http://dx.doi.org/10.1364/QELS.2010.QThA4). 
 
 #Posters
 
@@ -155,26 +159,26 @@ M. Koschorreck, M. Napolitano, B. Dubost, N. Behbood, R.J. Sewell \& M.W. Mitche
 
 #Seminars & Colloquia
 
-1. **R.J. Sewell**. Quantum-enhanced optical magnetometry. MIT (Boston, USA, 2013).
+1. Quantum-enhanced optical magnetometry. MIT (Boston, USA, 2013).
 
-2. **R.J. Sewell**. Quantum non-demolition measurement & quantum control of atomic spins. Imperial College (London, UK, 2013). 
+2. Quantum non-demolition measurement & quantum control of atomic spins. Imperial College (London, UK, 2013). 
 
-3. **R.J. Sewell**. Certified quantum non-demolition measurement of ultracold atomic spins. ICFO (Barcelona, Spain, 2013). 
+3. Certified quantum non-demolition measurement of ultracold atomic spins. ICFO (Barcelona, Spain, 2013). 
 
-4. **R.J. Sewell**. Squeezing, entanglement & quantum control of atomic spins. UPV (Bilbao, Spain, 2012).
+4. Squeezing, entanglement & quantum control of atomic spins. UPV (Bilbao, Spain, 2012).
 
-5. **R.J. Sewell**. Nonlinear quantum metrology with atomic spins. Imperial College London (London, UK, 2011). 
+5. Nonlinear quantum metrology with atomic spins. Imperial College London (London, UK, 2011). 
 
-6. **R.J. Sewell**. Spin Squeezing, Entanglement & Nonlinear Quantum Metrology with Ultracold Atoms. Monash University (Melbourne, Australia, 2010). 
+6. Spin Squeezing, Entanglement & Nonlinear Quantum Metrology with Ultracold Atoms. Monash University (Melbourne, Australia, 2010). 
 
-7. **R.J. Sewell**. Spin Squeezing, Entanglement & Nonlinear Quantum Metrology with Ultracold Atoms. Melbourne University (Melbourne, Australia, 2010). 
+7. Spin Squeezing, Entanglement & Nonlinear Quantum Metrology with Ultracold Atoms. Melbourne University (Melbourne, Australia, 2010). 
 
-8. **R.J. Sewell**. Spin Squeezing, Entanglement & Nonlinear Quantum Metrology with Ultracold Atoms. ANU (Canberra, Australia, 2010). 
+8. Spin Squeezing, Entanglement & Nonlinear Quantum Metrology with Ultracold Atoms. ANU (Canberra, Australia, 2010). 
 
-9. **R.J. Sewell**. Atom-chip BEC interferometer. ICFO (Barcelona, Spain, 2009). 
+9. Atom-chip BEC interferometer. ICFO (Barcelona, Spain, 2009). 
 
-10. **R.J. Sewell**. Atom-chip BEC interferometer. IESL (Heraklion, Greece, 2009). 
+10. Atom-chip BEC interferometer. IESL (Heraklion, Greece, 2009). 
 
-11. **R.J. Sewell**. Atom-chip BEC interferometer. Bonn University (Bonn, Germany, 2008). 
+11. Atom-chip BEC interferometer. Bonn University (Bonn, Germany, 2008). 
 
-12. **R.J. Sewell**. Atom-chip BEC interferometer. ANU (Canberra, Australia, 2007). 
+12. Atom-chip BEC interferometer. ANU (Canberra, Australia, 2007). 
