@@ -26,6 +26,7 @@ Here you can find my peer-reviewed publications & preprints, and some less techn
 
 5. N. Behbood, F. Martin Ciurana, G. Colangelo, M.W. Mitchell & R.J. Sewell. Real-time vector field tracking with a cold-atom magnetometer. [Applied Physics Letters 102(17):173504 (2013)](http://link.aip.org/link/?APL/102/173504/1).
 [link to pdf]({{ site.url }}/assets/pdfs/BehboodAPL2013.pdf)
+- Selected an Editor's Pick in device physics by [Applied Physics Letters](http://aip-info.org/1XPS-2GCST-43C9PBYU2A/cr.aspx}) June 2014.
 
 6. P. Hauke, R.J. Sewell, M.W. Mitchell & M. Lewenstein. Quantum control of spin-correlations in ultracold lattice gases. [Physical Review A 87(2):021601(R) (2013)](http://pra.aps.org/abstract/PRA/v87/i2/e021601).
 [link to pdf]({{ site.url }}/assets/pdfs/HaukePRA2013.pdf)
