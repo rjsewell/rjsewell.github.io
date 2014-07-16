@@ -63,6 +63,6 @@ Here you can find my peer-reviewed publications & preprints, and some less techn
 1. M. Napolitano, M. Koschorreck, B. Dubost, N. Behbood, R.J. Sewell & M.W. Mitchell. Quantum Optics & the "Heisenberg Limit" of Measurement. [Optics & Photonics News 22, 40 (2011)](http://www.opticsinfobase.org/opn/abstract.cfm?uri=opn-22-12-40).
 
 2.  R.J.Sewell & M.W. Mitchell. Collaboration & precision in quantum measurement. [Physics Today 64(12):72 (2011)](http://www.physicstoday.org/resource/1/phtoad/v64/i12/p72_s1).
-- Translated & published as コラボで上がる測定精度. [Parity (Japanese Physics Magazine) 27(10):50 (2012)](http://pub.maruzen.co.jp/book_magazine/magazine/parity-back/parity2012/2012_10/1210_cont.html).
+- Translated & published as コラボで上がる測定精度. [Parity (Japanese Physics Magazine) 27(10):50 (2012)](http://pub.maruzen.co.jp/book_magazine/magazine/parity-back/parity2012/2012_10/1210_cont.html).
 
 3. M. Campoy Quiles & R.J. Sewell. !Y Se Hizo La Luz!... Láser. [Ciencia, Publicatión Semestral de la Agrupación Astronómica Rias Baixas 8:13 (2010)](http://www.scribd.com/doc/49824488/Revista-Rias-Baixas-Num8).
