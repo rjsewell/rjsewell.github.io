@@ -11,8 +11,7 @@ Here you can find my peer-reviewed publications & preprints, and some less techn
 1. N. Behbood, F. Martin Ciurana, G. Colangelo, M. Napolitano, G. Tóth, R.J. Sewell & M.W. Mitchell. Generation of macroscopic singlet states in a cold atomic ensemble. [PRL 113, 093601 (2014)](http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.113.093601).
 [link to pdf]({{ site.url }}/assets/pdfs/BehboodPRL2014.pdf)
 - Selected as a PRL Editors' Suggestion, 25 August 2014.
-- Highlighted in [Scientific American](http://www.scientificamerican.com/article/quantum-entanglement-creates-new-state-of-matter1/) 22 September 2014.
-- Also in the Italian edition, [Le Scienze](http://www.lescienze.it/news/2014/09/27/news/un_nuovo_stato_della_materia_creato_con_l_entanglement_quantistico-2308668/).
+- Highlighted in [Scientific American](http://www.scientificamerican.com/article/quantum-entanglement-creates-new-state-of-matter1/) 22 September 2014. Republished in the Italian edition, [Le Scienze](http://www.lescienze.it/news/2014/09/27/news/un_nuovo_stato_della_materia_creato_con_l_entanglement_quantistico-2308668/) 27 September 2014.
 
 2. R.J. Sewell, M. Napolitano, N. Behbood, G. Colangelo, F. Martin Ciurana & M.W. Mitchell. Ultra-sensitive atomic spin measurements with a nonlinear interferometer. [PRX 4, 021045 (2014)](http://journals.aps.org/prx/abstract/10.1103/PhysRevX.4.021045).
 [link to pdf]({{ site.url }}/assets/pdfs/SewellPRX2014.pdf)
