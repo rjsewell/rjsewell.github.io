@@ -1,14 +1,14 @@
-name: R.J.Sewell
+name: Dr. R.J.Sewell
 url: http://rjsewell.github.io
-description: "Postdoc at ICFO - the institute of Photonic Sciences, Barcelona."
+description: "Staff Academic Scientist and Coordinator of Academic Programs"
 
-source:  .
+source: .
 safe: true
 lsi: false
 markdown: kramdown
 pygments: true
 
-permalink:     '/blog/:year/:title/'
+permalink: '/blog/:year/:title/'
 paginate_path: '/blog/page:num/'
 paginate: 2
 
