@@ -1,4 +1,4 @@
-A simple Theme for Jekyll
+ A simple Theme for Jekyll
 ======================
 
 Deployed on GithubPages at rjsewell.github.io
