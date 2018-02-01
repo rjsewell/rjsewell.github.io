@@ -8,7 +8,7 @@ lsi: false
 markdown: kramdown
 # pygments: false
 
-highlighter: rogue
+highlighter: rouge
 
 permalink: '/blog/:year/:title/'
 paginate_path: '/blog/page:num/'
