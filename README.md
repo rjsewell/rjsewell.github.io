@@ -5,7 +5,7 @@ Deployed on GithubPages at rjsewell.github.io
 
 To run from terminal:
 
-bundle exec jekyll build --watch
+bundle exec jekyll build --incremental --watch
 bundle exec jekyll serve --watch
 
 -------
