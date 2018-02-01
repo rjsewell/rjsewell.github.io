@@ -6,9 +6,9 @@ source: .
 safe: true
 lsi: false
 markdown: kramdown
-pygments: false
+# pygments: false
 
-# highlighter: rogue
+highlighter: rogue
 
 permalink: '/blog/:year/:title/'
 paginate_path: '/blog/page:num/'
