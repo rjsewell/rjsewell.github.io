@@ -4,19 +4,18 @@ layout:    default
 title:     Projects
 ---
 
-#Research topics
+# Research topics
 
-###[Quantum-enhanced magnetometry](/projects/squeezing)
+### [Quantum-enhanced magnetometry](/projects/squeezing)
 
-###[Generating & detecting entanglement](/projects/singlet)
+### [Generating & detecting entanglement](/projects/singlet)
 
-###[Nonlinear quantum measurements](/projects/nonlinear)
+### [Nonlinear quantum measurements](/projects/nonlinear)
 
-###[Matter-wave interferometry](/projects/interferometer)
+### [Matter-wave interferometry](/projects/interferometer)
 
 
-
-#Grants & Funding
+# Grants & Funding
 
 Named investigator on the following grants (principle investigator M.W. Mitchell):
 
