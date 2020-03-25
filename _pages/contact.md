@@ -6,7 +6,7 @@ title:     Contact
 
 If you need to find me, my office is room 304.
 
-##Contact Details
+## Contact Details
 
 <address>
     ICFO - Institut de Ciències Fotòniques<br>
