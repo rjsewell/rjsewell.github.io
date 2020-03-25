@@ -6,7 +6,7 @@ title:     Presentations
 
 Here are links to a few talks that I have given. You can find a full list of my conferences presentations & lectures & seminars that I have given [here]({{ site.url }}/presentations_full).
 
-#Talks
+# Talks
 
 1. N. Behbood, G. Colangelo, F. Martin Ciurana, **R.J. Sewell** & M.W. Mitchell. Generation of macroscopic singlet states in a cold atomic ensemble. Entanglement Detection & Quantification (Bilbao, Spain, 2014). 
 [link to pdf]({{ site.url }}/assets/pdfs/RJSewellBilbao2014.pdf)
